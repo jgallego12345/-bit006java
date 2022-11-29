@@ -1,1 +1,2 @@
-# -bit006java
+# -bit006javascript
+##
