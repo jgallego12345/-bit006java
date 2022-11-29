@@ -1,2 +1,2 @@
-# -bit006javascript
+# bit006javascript
 ##
