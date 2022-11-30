@@ -25,6 +25,20 @@ document.write('<br>')
 resultado= numero1 * numero2
 document.write("el resultado de la Multiplicación es:", numero1,"+ ",numero2,"=", resultado);
 document.write('<br>')
+
 resultado= numero1 / numero2
 document.write("el resultado de la División es:", numero1,"+ ",numero2,"=", resultado);
 document.write('<br>')
+
+/* Cadenas literales */
+const nombre1 = 'Johnnathan';
+const nombre2 = 'Alexander';
+const apellido1 = 'Gallego';
+const apellido2 = 'Romero';
+
+//const nombreApellido = nombre + ' ' + apellido;
+const nombreApellido = `Los apellidos de ${nombre1} ${nombre2} es ${apellido1} ${apellido2}`;
+console.log(nombreApellido);
+document.write(`Los apellidos de ${nombre1} ${nombre2} es ${apellido1} ${apellido2}`);
+
+s
